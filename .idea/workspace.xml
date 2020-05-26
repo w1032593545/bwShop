@@ -3,41 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="52c33dd1-ab46-4821-a753-c7838bcceef2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/goods/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/goods/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/goods/adminx.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/goods/adminx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/goods/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/goods/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/goods/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/trade/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/trade/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/user_operation/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user_operation/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user_operation/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user_operation/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user_operation/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user_operation/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bwShop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bwShop/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bwShop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bwShop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/attachment.css" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/attachment/attachment.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/background/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/background/background.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/background/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/background/background.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.css" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/image.css" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/image/image.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/internal.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/internal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.css" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/template/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/video.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/video/video.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/wordimage/wordimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/dialogs/wordimage/wordimage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/en/en.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/zh-cn/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/static/ueditor/lang/zh-cn/zh-cn.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/templates/ueditor.html" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/templates/ueditor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra_apps/DjangoUeditor/widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/extra_apps/DjangoUeditor/widgets.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,73 +25,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bwShop/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="47" selection-start-line="47" selection-end-line="48" />
-              <folding>
-                <element signature="e#307#316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/goods/adminx.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
-              <folding>
-                <element signature="e#18#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apps/goods/filters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bwShop/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+            <state relative-caret-position="38">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
-              <folding>
-                <element signature="e#26#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/goods/serializers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/apps/users/models.py" />
         <option value="$PROJECT_DIR$/apps/user_operation/models.py" />
         <option value="$PROJECT_DIR$/apps/trade/models.py" />
         <option value="$PROJECT_DIR$/apps/goods/models.py" />
@@ -150,29 +64,37 @@
         <option value="$PROJECT_DIR$/apps/trade/adminx.py" />
         <option value="$PROJECT_DIR$/apps/user_operation/adminx.py" />
         <option value="$PROJECT_DIR$/apps/users/adminx.py" />
-        <option value="$PROJECT_DIR$/apps/users/apps.py" />
         <option value="$PROJECT_DIR$/db_tools/import_category_data.py" />
         <option value="$PROJECT_DIR$/db_tools/import_goods_data.py" />
         <option value="$PROJECT_DIR$/apps/trade/apps.py" />
         <option value="$PROJECT_DIR$/apps/user_operation/apps.py" />
         <option value="$PROJECT_DIR$/apps/trade/view_base.py" />
         <option value="$PROJECT_DIR$/apps/goods/view_base.py" />
-        <option value="$PROJECT_DIR$/bwShop/urls.py" />
-        <option value="$PROJECT_DIR$/apps/goods/serializers.py" />
-        <option value="$PROJECT_DIR$/bwShop/settings.py" />
-        <option value="$PROJECT_DIR$/apps/goods/views.py" />
         <option value="$PROJECT_DIR$/apps/goods/adminx.py" />
         <option value="$PROJECT_DIR$/apps/goods/__init__.py" />
-        <option value="$PROJECT_DIR$/extra_apps/DjangoUeditor/widgets.py" />
         <option value="$PROJECT_DIR$/apps/goods/filters.py" />
+        <option value="$PROJECT_DIR$/apps/utils/yunpian.py" />
+        <option value="$PROJECT_DIR$/bwShop/settings.py" />
+        <option value="$PROJECT_DIR$/apps/users/models.py" />
+        <option value="$PROJECT_DIR$/extra_apps/DjangoUeditor/widgets.py" />
+        <option value="$PROJECT_DIR$/apps/users/signals.py" />
+        <option value="$PROJECT_DIR$/apps/users/apps.py" />
+        <option value="$PROJECT_DIR$/bwShop/urls.py" />
+        <option value="$PROJECT_DIR$/apps/goods/serializers.py" />
+        <option value="$PROJECT_DIR$/apps/goods/views.py" />
+        <option value="$PROJECT_DIR$/apps/user_operation/serializers.py" />
+        <option value="$PROJECT_DIR$/apps/user_operation/views.py" />
+        <option value="$PROJECT_DIR$/apps/users/serializers.py" />
+        <option value="$PROJECT_DIR$/apps/users/views.py" />
+        <option value="$PROJECT_DIR$/apps/utils/permissions.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="556" />
-    <option name="y" value="307" />
-    <option name="width" value="1208" />
-    <option name="height" value="963" />
+    <option name="x" value="427" />
+    <option name="y" value="31" />
+    <option name="width" value="1209" />
+    <option name="height" value="969" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -182,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,25 +120,13 @@
               <item name="bwShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="bwShop" type="462c0819:PsiDirectoryNode" />
               <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="goods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bwShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bwShop" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="trade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bwShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bwShop" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
               <item name="user_operation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bwShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="bwShop" type="462c0819:PsiDirectoryNode" />
               <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bwShop" type="b2602c69:ProjectViewProjectNode" />
@@ -228,6 +137,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,22 +260,26 @@
       <workItem from="1590366519149" duration="7873000" />
       <workItem from="1590386587677" duration="2352000" />
       <workItem from="1590407768410" duration="5839000" />
+      <workItem from="1590413701740" duration="112000" />
+      <workItem from="1590452865056" duration="4812000" />
+      <workItem from="1590472606455" duration="4852000" />
+      <workItem from="1590491320084" duration="763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20268000" />
+    <option name="totallyTimeSpent" value="30807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="371" y="205" width="805" height="642" extended-state="0" />
+    <frame x="576" y="21" width="806" height="646" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49702382" weight="0.2141901" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49702382" visible="true" weight="0.3168449" />
       <window_info id="Structure" order="1" sideWeight="0.5029762" side_tool="true" weight="0.20759289" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27708703" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2748538" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,7 +289,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="manage.py@bwShop" order="10" weight="0.32849365" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.36078432" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.35672516" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -405,33 +319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="90" column="23" lean-forward="true" selection-start-line="90" selection-start-column="23" selection-end-line="90" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/DRFdemo/新建文件夹/MxShop/MxShop/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/users/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/user_operation/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -513,38 +400,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/users/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/trade/view_base.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/user_operation/view_base.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/goods/view_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="44" column="83" selection-start-line="44" selection-start-column="83" selection-end-line="44" selection-end-column="83" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/goods/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -552,16 +412,6 @@
           <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bwShop/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -580,23 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/widgets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="40" column="33" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
-          <folding>
-            <element signature="e#26#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/adminx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -604,19 +437,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bwShop/settings.py">
+    <entry file="file://$USER_HOME$/Desktop/DRFdemo/新建文件夹/MxShop/MxShop/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="47" selection-start-line="47" selection-end-line="48" />
-          <folding>
-            <element signature="e#307#316#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="179">
+          <caret line="133" selection-start-line="133" selection-end-line="135" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/goods/adminx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
+        <state relative-caret-position="278">
           <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
           <folding>
             <element signature="e#18#31#0" expanded="true" />
@@ -624,12 +454,163 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/apps/utils/yunpian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/DjangoUeditor/widgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/signals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/view_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bwShop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+          <folding>
+            <element signature="e#307#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user_operation/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+          <folding>
+            <element signature="e#26#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apps/goods/filters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user_operation/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-394">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user_operation/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="57" column="72" selection-start-line="57" selection-start-column="72" selection-end-line="57" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="93" column="65" selection-start-line="93" selection-start-column="65" selection-end-line="93" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="125" column="37" lean-forward="true" selection-start-line="125" selection-start-column="37" selection-end-line="125" selection-end-column="37" />
+          <folding>
+            <element signature="e#31#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/utils/permissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bwShop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
