@@ -12,7 +12,7 @@ class YunPian(object):
         parmas = {
             "apikey": self.api_key,
             "mobile": mobile,
-            "text": "【赵益军】您的验证码是{code}。如非本人操作，请忽略本短信".format(code=code)
+            "text": "【王昕】您的验证码是{code}。如非本人操作，请忽略本短信".format(code=code)
         }
 
         response = requests.post(self.single_send_url, data=parmas)
@@ -20,5 +20,5 @@ class YunPian(object):
         return re_dict
 
 if __name__ == "__main__":
-    yuan_pian = YunPian('c6a45a414b28c110e8d3a9cab47f8aa1')
-    yuan_pian.send_sms("2020", "15210485116")
+    yuan_pian = YunPian('e03d3df3c55d783f94fb92ed0308908f')
+    yuan_pian.send_sms("2020", "17625762546")

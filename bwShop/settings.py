@@ -82,7 +82,7 @@ AUTHENTICATION_BACKENDS = (
 # 手机号码正则表达式
 REGEX_MOBILE = "^1[358]\d{9}$|^147\d{8}$|^176\d{8}$"
 # 云片网 api_key
-APIKEY = 'c6a45a414b28c110e8d3a9cab47f8aa1'
+APIKEY = 'e03d3df3c55d783f94fb92ed0308908f'
 
 # 重载系统的用户，让UserProfile生效
 AUTH_USER_MODEL = 'users.UserProfile'
