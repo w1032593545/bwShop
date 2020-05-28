@@ -28,7 +28,7 @@ SECRET_KEY = '_w^lu^1n1@672o-#$y2g-ovb))h6evtvuuafag)m$9)s(so4e2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 # Application definition
 
@@ -52,7 +52,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'coreschema',
     'DjangoUeditor',
-    'rest_framework.authtoken'
+    'rest_framework.authtoken',
 ]
 
 import datetime
@@ -177,3 +177,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_DIRS = (
     os.path.join(BASE_DIR, 'media')
 )
+
+# 支付宝相关的key
+private_key_path = os.path.join(BASE_DIR, 'apps/trade/keys/private_2048.txt')
+ali_pub_key_path = os.path.join(BASE_DIR, 'apps/trade/keys/alipay_key_2048.txt')
